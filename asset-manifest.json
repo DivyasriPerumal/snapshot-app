@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/snapshot-app/static/css/main.e0e0313c.css",
+    "main.js": "/snapshot-app/static/js/main.840a4ed2.js",
+    "static/js/787.2f4136ae.chunk.js": "/snapshot-app/static/js/787.2f4136ae.chunk.js",
+    "index.html": "/snapshot-app/index.html",
+    "main.e0e0313c.css.map": "/snapshot-app/static/css/main.e0e0313c.css.map",
+    "main.840a4ed2.js.map": "/snapshot-app/static/js/main.840a4ed2.js.map",
+    "787.2f4136ae.chunk.js.map": "/snapshot-app/static/js/787.2f4136ae.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e0e0313c.css",
+    "static/js/main.840a4ed2.js"
+  ]
+}
